@@ -1,6 +1,6 @@
 [project]
 title = TTS
-version = 0.137
+version = 0.143
 
 [bootstrap]
 main_collection = /main/main.collectionc
@@ -10,7 +10,7 @@ game_binding = /input/game.input_bindingc
 
 [display]
 width = 640
-height = 640
+height = 672
 fullscreen = 0
 update_frequency = 60
 
