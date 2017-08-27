@@ -1,6 +1,6 @@
 [project]
 title = TTS
-version = 0.143
+version = 0.15
 
 [bootstrap]
 main_collection = /main/main.collectionc
